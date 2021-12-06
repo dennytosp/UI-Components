@@ -1,4 +1,4 @@
-# react-native
+# UI-Components
 
 clone the module and add on any react-native or expo project.
 
